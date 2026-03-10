@@ -1,0 +1,9 @@
+{
+  "name": "KANINA - Comunidad Inteligente para Mascotas",
+  "description": "Una plataforma integral para dueños de mascotas, cuidadores y negocios del sector, con matching inteligente, marketplace y asistencia veterinaria por IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
